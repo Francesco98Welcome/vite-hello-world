@@ -7,7 +7,6 @@ export default {
   },
   data() {
     return {
-      count: 0,
     };
   },
 };
@@ -19,5 +18,7 @@ export default {
 </template>
 
 <style scoped>
-
+h2 {
+  color: rgb(173, 9, 9);
+}
 </style>
